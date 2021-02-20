@@ -1,0 +1,71 @@
+#mainapage{
+	margin-top: 2%;
+}
+#idcontainer{
+	border-top: 4px solid black;
+}
+#logdivider{
+	height: 10px;
+}
+.carousel-inner img {
+	width: 100%;
+	height: 100%;
+}
+MARQUEE{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+table{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+#newstext{
+	padding: 4px;
+	margin: 0;
+	border: 0;
+}
+#news{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+#newsdivider{
+	width: 50px;
+}
+#welcomeheading{
+	border-bottom: 1px solid rgb(107, 107, 107);
+}
+#welcmecontent{
+	margin-top: 15px;
+}
+#noticeboard{
+	background-color: #D3D3D3;
+}
+
+#noticeboard {
+	padding: 10px;
+}
+
+#noticeboard ul li{
+	list-style: none;
+}
+
+#importantlinksboarder{
+	padding-bottom: 5px;
+	border-bottom: 2px solid black;
+}
+.footer{
+	padding: 25px;
+}
+.logicon{
+	font-size: 25px;
+	padding-left: 10px;
+}
+.galleryphoto{
+	margin-bottom: 8px;
+}
+#importantlinks{
+	padding: 10px;
+}
